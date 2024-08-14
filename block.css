@@ -41,6 +41,8 @@ h3 {
 
 p {
     margin-bottom: 15px;
+    display: flex;
+    justify-content: center;
 }
 
 
